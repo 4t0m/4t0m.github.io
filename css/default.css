@@ -1,0 +1,31 @@
+#sidebar { 
+    padding-top: 64px;
+}
+
+#sidebar ul {
+    float: left;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    height: 100%;
+}
+
+#sidebar ul li a {
+    text-align: left;
+    display: block;
+}
+
+#content {
+  margin: 0 auto;
+  padding-top: 64px;
+  width: 85%;
+}
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+}
