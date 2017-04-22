@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/monochrome/writing/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/projects/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/aesthetics/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/giving/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/feedback/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/habits/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/blogroll/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/beliefs/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/monochrome/</loc>
+</url>
+</urlset>
